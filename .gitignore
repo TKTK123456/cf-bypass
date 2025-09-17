@@ -26,3 +26,6 @@ local_storage/
 
 # Nix outputs
 result
+
+# Cookies
+cookies.json
